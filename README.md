@@ -76,3 +76,8 @@ If you need to work locally on the module, you can add that line at the end of y
 ```
 replace github.com/jygastaud/hugo-microtypo/microtypo => /<your-path>/hugo-microtypo/microtypo
 ```
+
+## Projects using Hugo Microtypo
+
+- Good Impact Base Structure [![Good Impact Base Structure - Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]([https://github.com/cnumr/EcoIndex/](https://gitlab.com/goodimpact/goodimpact-hugo/modules/base-structure))  
+  … used by [EcoIndex.fr](https://www.ecoindex.fr/) [![GitHub EcoIndex](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cnumr/EcoIndex/)
